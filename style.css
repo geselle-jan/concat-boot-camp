@@ -1,0 +1,36 @@
+/* CSS */
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 3rem;
+    color: #F2AB27;
+    background-color: #131626;
+}
+
+img {
+    border: 10px solid #F2AB27;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 5px dotted #A6341B;
+    width: fit-content;
+    margin-right: auto;
+}
+
+blockquote {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    font-style: italic;
+    background-color: #131626;
+    text-align: center;
+}
+
+cite {
+    font-size: 1.5rem;
+}
+
+a:hover {
+    color: #A6341B;
+    background-color: #F2AB27;
+}
